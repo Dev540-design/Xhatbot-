@@ -1,0 +1,6 @@
+Flask
+torch
+transformers
+requests
+beautifulsoup4
+ratelimit
